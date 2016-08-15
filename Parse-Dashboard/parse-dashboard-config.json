@@ -2,7 +2,7 @@
   "apps": [{
     "serverURL": "https://danielfarko.herokuapp.com/parse",
     "appId": "myAppId",
-    "masterKey": "",
+    "masterKey": "myMasterKey",
     "appName": "farko test server",
     "iconName": ""
   }],
