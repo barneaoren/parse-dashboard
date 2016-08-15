@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://danielfarko.herokuapp.com/parse",
+    "serverURL": "https://danielfarko.herokuapp.com",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
     "appName": "farkotest"
