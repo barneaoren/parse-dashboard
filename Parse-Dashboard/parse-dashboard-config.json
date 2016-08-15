@@ -3,8 +3,7 @@
     "serverURL": "https://danielfarko.herokuapp.com/parse",
     "appId": "myAppId",
     "masterKey": "myMasterKey",
-    "appName": "farko test server",
-    "iconName": ""
+    "appName": "farkotest"
   }],
-  "iconsFolder": "icons"
+  "users": [{"user":"daniel","pass":"123456"}]
 }
